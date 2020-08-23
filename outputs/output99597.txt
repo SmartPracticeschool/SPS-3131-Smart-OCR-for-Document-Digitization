@@ -1,0 +1,59 @@
+Agenda at a Glance AW iveoes = 10) |(@(165m ©) alll alomei=)s[o1s
+
+ 
+
+~ Opening Session: Cloud security fundamentals: What every builder needs to know
+60 .
+; Q&A with AWS Experts
+
+MIAS
+
+ 
+   
+
+ee ne
+
+40
+
+ae How to deploy your first web application in minutes Remote work and learning solutions on AWS
+
+50
+mins
+
+From Idea to MVP: Accelerate application development with AWS Amplify ee oe
+
+~ Getting started with DevOps on AWS Fit for purpose operating systems: Get started with the right operating system for your workload
+
+50
+mins
+
+Give unlimited scale storage to your application with Amazon S3 and File Gateway Startups: How to begin your cloud journey with AWS
+
+40
+
+ae Nine ways to optimize your costs in the cloud Nine ways to optimize your costs in the cloud
+
+ 
+
+* Agenda subject to change
+
+Session Detail
+
+Level 100 | evel 200
+
+Introductory Intermediate
+Sessions are focused on providing an Sessions are focused on providing best
+overview of AWS services and features, practices, details of service features
+with the assumption that attendees are and demos with the assumption that
+new to the topic. attendees have introductory knowledge
+
+of the topics.
+
+AWS
+
+wee”)
+
+ 
+
+ 
+
